@@ -43,7 +43,9 @@ else {
         std::cout << "HUGE\n";
     } 
     else {
-        std::cout << "Twink\n";
+        std::cout << "small\n";
+
+        // Unnecessary but consolidating if statement logic
     }
 }
 
